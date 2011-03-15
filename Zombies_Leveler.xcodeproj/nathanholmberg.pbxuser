@@ -1,0 +1,516 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {616, 396}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* Zombies_LevelerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {616, 396}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 342}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Zombies_LevelerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 463}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F896F24613232DCF007E0950 /* Zombies_Leveler */;
+		activeTarget = 8D1107260486CEB800E47090 /* Zombies_Leveler */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Zombies_Leveler */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = F896F25B13232DDE007E0950 /* Code sense */;
+		executables = (
+			F896F24613232DCF007E0950 /* Zombies_Leveler */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					230,
+					20,
+					130,
+					130,
+					58,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321225280;
+			PBXWorkspaceStateSaveDate = 321225280;
+		};
+		perUserProjectItems = {
+			F888C4B813248DE6003BABA3 /* PBXTextBookmark */ = F888C4B813248DE6003BABA3 /* PBXTextBookmark */;
+			F888C4BA13248DE6003BABA3 /* PBXTextBookmark */ = F888C4BA13248DE6003BABA3 /* PBXTextBookmark */;
+			F888C53C1324A7D8003BABA3 /* PBXTextBookmark */ = F888C53C1324A7D8003BABA3 /* PBXTextBookmark */;
+			F888C53D1324A7D8003BABA3 /* PBXTextBookmark */ = F888C53D1324A7D8003BABA3 /* PBXTextBookmark */;
+			F888C53E1324A7D8003BABA3 /* PBXTextBookmark */ = F888C53E1324A7D8003BABA3 /* PBXTextBookmark */;
+			F888C5501324A874003BABA3 /* PBXTextBookmark */ = F888C5501324A874003BABA3 /* PBXTextBookmark */;
+			F888C5511324A874003BABA3 /* PBXTextBookmark */ = F888C5511324A874003BABA3 /* PBXTextBookmark */;
+			F888C5581324A918003BABA3 /* PBXTextBookmark */ = F888C5581324A918003BABA3 /* PBXTextBookmark */;
+			F888C5591324A918003BABA3 /* PBXTextBookmark */ = F888C5591324A918003BABA3 /* PBXTextBookmark */;
+			F888C55A1324A918003BABA3 /* PBXTextBookmark */ = F888C55A1324A918003BABA3 /* PBXTextBookmark */;
+			F888C5921324ACDD003BABA3 /* PBXTextBookmark */ = F888C5921324ACDD003BABA3 /* PBXTextBookmark */;
+			F888C63E13258291003BABA3 /* PBXTextBookmark */ = F888C63E13258291003BABA3 /* PBXTextBookmark */;
+			F8F2041A13242FAE0066110D /* PBXTextBookmark */ = F8F2041A13242FAE0066110D /* PBXTextBookmark */;
+			F8F204C5132443450066110D /* PBXTextBookmark */ = F8F204C5132443450066110D /* PBXTextBookmark */;
+			F8F204EF132447470066110D /* PBXTextBookmark */ = F8F204EF132447470066110D /* PBXTextBookmark */;
+			F8F2055413244A610066110D /* PBXTextBookmark */ = F8F2055413244A610066110D /* PBXTextBookmark */;
+			F8F2056213244B990066110D /* PBXTextBookmark */ = F8F2056213244B990066110D /* PBXTextBookmark */;
+			F8F2056C13244BEB0066110D /* PBXTextBookmark */ = F8F2056C13244BEB0066110D /* PBXTextBookmark */;
+			F8F2059513244E000066110D /* PBXTextBookmark */ = F8F2059513244E000066110D /* PBXTextBookmark */;
+			F8F2059813244E000066110D /* PBXTextBookmark */ = F8F2059813244E000066110D /* PBXTextBookmark */;
+			F8F2059E13244E270066110D /* PBXTextBookmark */ = F8F2059E13244E270066110D /* PBXTextBookmark */;
+		};
+		sourceControlManager = F896F25A13232DDE007E0950 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {616, 217}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 264}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Zombies_Leveler */ = {
+		activeExec = 0;
+		executables = (
+			F896F24613232DCF007E0950 /* Zombies_Leveler */,
+		);
+	};
+	F8858C9F13233A0700319600 /* Zombie_Leveler_Controller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 806}}";
+			sepNavSelRange = "{431, 11}";
+			sepNavVisRange = "{189, 1022}";
+		};
+	};
+	F8858CA013233A0700319600 /* Zombie_Leveler_Controller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 4095}}";
+			sepNavSelRange = "{6245, 0}";
+			sepNavVisRange = "{5344, 512}";
+		};
+	};
+	F8858CEE1323448700319600 /* NSControl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSControl.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSControl.h;
+		sourceTree = "<absolute>";
+	};
+	F8858D291323499D00319600 /* ZombieGridManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 884}}";
+			sepNavSelRange = "{365, 10}";
+			sepNavVisRange = "{251, 917}";
+		};
+	};
+	F8858D2A1323499D00319600 /* ZombieGridManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 5356}}";
+			sepNavSelRange = "{6215, 0}";
+			sepNavVisRange = "{5966, 846}";
+		};
+	};
+	F8858D4B1323504E00319600 /* NSButtonCell.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSButtonCell.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSButtonCell.h;
+		sourceTree = "<absolute>";
+	};
+	F8858D9E132354BA00319600 /* ZombieGridManagerDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 463}}";
+			sepNavSelRange = "{287, 9}";
+			sepNavVisRange = "{0, 310}";
+		};
+	};
+	F8858DE413237F2300319600 /* ZombieGridCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {616, 386}}";
+			sepNavSelRange = "{176, 26}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	F8858DE513237F2300319600 /* ZombieGridCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 1547}}";
+			sepNavSelRange = "{444, 31}";
+			sepNavVisRange = "{0, 760}";
+		};
+	};
+	F8858E941323970700319600 /* ZombieGridCellTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {616, 386}}";
+			sepNavSelRange = "{224, 31}";
+			sepNavVisRange = "{0, 495}";
+		};
+	};
+	F8858F0713239D2400319600 /* ZombieGridEdge.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {616, 363}}";
+			sepNavSelRange = "{202, 0}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	F8858F0813239D2400319600 /* ZombieGridEdge.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 767}}";
+			sepNavSelRange = "{444, 0}";
+			sepNavVisRange = "{0, 686}";
+		};
+	};
+	F888C4A213248A96003BABA3 /* ZombieLevelUtils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 465}}";
+			sepNavSelRange = "{239, 24}";
+			sepNavVisRange = "{0, 399}";
+		};
+	};
+	F888C4A313248A96003BABA3 /* ZombieLevelUtils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 507}}";
+			sepNavSelRange = "{234, 24}";
+			sepNavVisRange = "{0, 960}";
+		};
+	};
+	F888C4B813248DE6003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F888C4A313248A96003BABA3 /* ZombieLevelUtils.m */;
+		name = "ZombieLevelUtils.m: 15";
+		rLen = 24;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 0;
+	};
+	F888C4BA13248DE6003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F888C4A213248A96003BABA3 /* ZombieLevelUtils.h */;
+		name = "ZombieLevelUtils.h: 16";
+		rLen = 24;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	F888C53C1324A7D8003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858DE513237F2300319600 /* ZombieGridCell.m */;
+		name = "ZombieGridCell.m: 24";
+		rLen = 31;
+		rLoc = 444;
+		rType = 0;
+		vrLen = 760;
+		vrLoc = 0;
+	};
+	F888C53D1324A7D8003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858F0813239D2400319600 /* ZombieGridEdge.m */;
+		name = "ZombieGridEdge.m: 25";
+		rLen = 0;
+		rLoc = 444;
+		rType = 0;
+		vrLen = 686;
+		vrLoc = 0;
+	};
+	F888C53E1324A7D8003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F888C53F1324A7D8003BABA3 /* NSImageView.h */;
+		name = "NSImageView.h: 11";
+		rLen = 35;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 943;
+		vrLoc = 397;
+	};
+	F888C53F1324A7D8003BABA3 /* NSImageView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSImageView.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSImageView.h;
+		sourceTree = "<absolute>";
+	};
+	F888C5501324A874003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858D9E132354BA00319600 /* ZombieGridManagerDelegate.h */;
+		name = "ZombieGridManagerDelegate.h: 16";
+		rLen = 9;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 310;
+		vrLoc = 0;
+	};
+	F888C5511324A874003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Zombies_LevelerAppDelegate.m */;
+		name = "Zombies_LevelerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 403;
+		vrLoc = 0;
+	};
+	F888C5581324A918003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858D291323499D00319600 /* ZombieGridManager.h */;
+		name = "ZombieGridManager.h: 20";
+		rLen = 10;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 251;
+	};
+	F888C5591324A918003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858C9F13233A0700319600 /* Zombie_Leveler_Controller.h */;
+		name = "Zombie_Leveler_Controller.h: 19";
+		rLen = 11;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 189;
+	};
+	F888C55A1324A918003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858CA013233A0700319600 /* Zombie_Leveler_Controller.m */;
+		name = "Zombie_Leveler_Controller.m: 45";
+		rLen = 168;
+		rLoc = 1016;
+		rType = 0;
+		vrLen = 1016;
+		vrLoc = 568;
+	};
+	F888C5921324ACDD003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858D2A1323499D00319600 /* ZombieGridManager.m */;
+		name = "ZombieGridManager.m: 230";
+		rLen = 0;
+		rLoc = 6353;
+		rType = 0;
+		vrLen = 848;
+		vrLoc = 5966;
+	};
+	F888C63E13258291003BABA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858D2A1323499D00319600 /* ZombieGridManager.m */;
+		name = "ZombieGridManager.m: 223";
+		rLen = 0;
+		rLoc = 6215;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 5966;
+	};
+	F896F24613232DCF007E0950 /* Zombies_Leveler */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Zombies_Leveler;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F896F25A13232DDE007E0950 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F896F25B13232DDE007E0950 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F8F2041A13242FAE0066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858CEE1323448700319600 /* NSControl.h */;
+		name = "NSControl.h: 66";
+		rLen = 21;
+		rLoc = 1732;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 1195;
+	};
+	F8F204B5132442870066110D /* CALayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CALayer.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Headers/CALayer.h;
+		sourceTree = "<absolute>";
+	};
+	F8F204C5132443450066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858D4B1323504E00319600 /* NSButtonCell.h */;
+		name = "NSButtonCell.h: 47";
+		rLen = 40;
+		rLoc = 1280;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 700;
+	};
+	F8F204EE132447470066110D /* CIFilter.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CIFilter.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Headers/CIFilter.h;
+		sourceTree = "<absolute>";
+	};
+	F8F204EF132447470066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8F204F0132447470066110D /* CIVector.h */;
+		name = "CIVector.h: 19";
+		rLen = 52;
+		rLoc = 423;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 497;
+	};
+	F8F204F0132447470066110D /* CIVector.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CIVector.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Headers/CIVector.h;
+		sourceTree = "<absolute>";
+	};
+	F8F2055413244A610066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8F204EE132447470066110D /* CIFilter.h */;
+		name = "CIFilter.h: 259";
+		rLen = 53;
+		rLoc = 12008;
+		rType = 0;
+		vrLen = 1448;
+		vrLoc = 12698;
+	};
+	F8F2056213244B990066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8F204B5132442870066110D /* CALayer.h */;
+		name = "CALayer.h: 461";
+		rLen = 0;
+		rLoc = 17222;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
+	F8F2056C13244BEB0066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8F2056D13244BEB0066110D /* NSKeyValueCoding.h */;
+		name = "NSKeyValueCoding.h: 105";
+		rLen = 101;
+		rLoc = 17991;
+		rType = 0;
+		vrLen = 7491;
+		vrLoc = 10740;
+	};
+	F8F2056D13244BEB0066110D /* NSKeyValueCoding.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSKeyValueCoding.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSKeyValueCoding.h;
+		sourceTree = "<absolute>";
+	};
+	F8F2059513244E000066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858E941323970700319600 /* ZombieGridCellTypes.h */;
+		name = "ZombieGridCellTypes.h: 14";
+		rLen = 31;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	F8F2059813244E000066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858DE413237F2300319600 /* ZombieGridCell.h */;
+		name = "ZombieGridCell.h: 9";
+		rLen = 26;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	F8F2059E13244E270066110D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F8858F0713239D2400319600 /* ZombieGridEdge.h */;
+		name = "ZombieGridEdge.h: 10";
+		rLen = 0;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+}

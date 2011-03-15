@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Zombies_Leveler' target in the 'Zombies_Leveler' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

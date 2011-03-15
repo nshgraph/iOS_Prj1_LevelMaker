@@ -1,0 +1,379 @@
+TZombies_Leveler
+v7
+r0
+t321225288.072300
+cCheck dependencies
+cProcessInfoPlistFile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Info.plist Zombies_Leveler-Info.plist
+cCopyStringsFile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch.gch Zombies_Leveler_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/main.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_LevelerAppDelegate.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombie_Leveler_Controller.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridManager.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridCell.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridEdge.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieLevelUtils.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/MacOS/Zombies_Leveler normal x86_64
+cTouch /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004AD870D50000000000000124
+t1255698645
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004CAA740500000000000036E0
+t1286239237
+s14048
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/InfoPlist.strings
+c000000004D72F64F000000000000002D
+t1299379791
+s45
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib
+c000000004D7471A600000000000496EF
+t1299476902
+s300783
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.h
+c000000004D74165D000000000000019B
+t1299453533
+s411
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m
+c000000004D7415ED0000000000000C3D
+t1299453421
+s3133
+i"ZombieGridCell.h"
+i"ZombieGridCellTypes.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCellTypes.h
+c000000004D735FAF00000000000001EF
+t1299406767
+s495
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.h
+c000000004D74167F0000000000000195
+t1299453567
+s405
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m
+c000000004D74170D000000000000042A
+t1299453709
+s1066
+i"ZombieGridEdge.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.h
+c000000004D745362000000000000061E
+t1299469154
+s1566
+i<Cocoa/Cocoa.h>
+i"ZombieGridManagerDelegate.h"
+i"ZombieGridCellTypes.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m
+c000000004D7471960000000000002B97
+t1299476886
+s11159
+i"ZombieGridManager.h"
+i"ZombieGridCell.h"
+i"ZombieGridEdge.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManagerDelegate.h
+c000000004D736CF60000000000000136
+t1299410166
+s310
+i<Cocoa/Cocoa.h>
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.h
+c000000004D745362000000000000018F
+t1299469154
+s399
+i<Cocoa/Cocoa.h>
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m
+c000000004D74536200000000000003C6
+t1299469154
+s966
+i"ZombieLevelUtils.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.h
+c000000004D73F4F90000000000000601
+t1299444985
+s1537
+i<Cocoa/Cocoa.h>
+i"ZombieGridManagerDelegate.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m
+c000000004D7471960000000000002971
+t1299476886
+s10609
+i"Zombie_Leveler_Controller.h"
+i"ZombieGridManager.h"
+i"ZombieLevelUtils.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.h
+c000000004D72F64F0000000000000156
+t1299379791
+s342
+i<Cocoa/Cocoa.h>
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m
+c000000004D72F64F0000000000000193
+t1299379791
+s403
+i"Zombies_LevelerAppDelegate.h"
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_Leveler_Prefix.pch
+c000000004D72F64F00000000000000A1
+t1299379791
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app
+t1299532488
+s102
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Info.plist
+t1299381199
+s910
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/MacOS/Zombies_Leveler
+t1299476887
+s69968
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/PkgInfo
+t1299381199
+s8
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1299381199
+s92
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj/MainMenu.nib
+t1299532487
+s57590
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridCell.o
+t1299453534
+s25996
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridEdge.o
+t1299453709
+s21112
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridManager.o
+t1299476887
+s52772
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieLevelUtils.o
+t1299469155
+s11364
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombie_Leveler_Controller.o
+t1299476887
+s56332
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_Leveler.LinkFileList
+c000000004D7453620000000000000425
+t1299469154
+s1061
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_LevelerAppDelegate.o
+t1299381203
+s21328
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/main.o
+t1299381203
+s5016
+
+N/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m
+c000000004D72F64F0000000000000108
+t1299379791
+s264
+i<Cocoa/Cocoa.h>
+
+N/var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch.gch
+t1299381203
+s54306576
+
+NZombies_Leveler-Info.plist
+c000000004D72F64F00000000000003EA
+t1299379791
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321225285#321225285#0(0"0(0#1#0"8661052480#0"0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridCell.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321146334.026364
+e321146334.316338
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridCell.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m321146334#321146334#0(0"0(0#0#70"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m8622366112#1795"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridCell.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridCell.o0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridEdge.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321146509.175416
+e321146509.707635
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridEdge.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m321146509#321146509#0(0"0(0#0#70"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m8621369792#1795"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridEdge.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridEdge.o0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridManager.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321169687.148169
+e321169687.688180
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridManager.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m321169687#321169687#0(0"0(0#0#73"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m8632229024#1801"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieGridManager.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieGridManager.o0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieLevelUtils.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321161954.929417
+e321161955.110689
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieLevelUtils.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m321161954#321161955#0(0"0(0#0#72"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m8615349568#1799"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/ZombieLevelUtils.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/ZombieLevelUtils.o0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombie_Leveler_Controller.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321169686.876010
+e321169687.415007
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombie_Leveler_Controller.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m321169686#321169687#0(0"0(0#0#81"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m8631439840#1817"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombie_Leveler_Controller.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombie_Leveler_Controller.o0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_LevelerAppDelegate.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321074003.286010
+e321074003.489419
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_LevelerAppDelegate.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m321074003#321074003#0(0"0(0#0#82"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m8607885632#1819"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_LevelerAppDelegate.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_LevelerAppDelegate.o0#
+
+CCompileC build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/main.o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321074003.284695
+e321074003.456278
+r1
+xCompileC
+xbuild/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/main.o
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m321074003#321074003#0(0"0(0#0#60"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m8615589088#1775"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -include /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/main.m -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib
+s321225285.947207
+e321225288.068099
+r1
+xCompileXIB
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib:638: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib321225285#321225288#0(167"/* com.apple.ibtool.document.notices *//Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib:638: note: This view is clipping its content.1(13@34"This view is clipping its content.321225288#18446744073709551615#0#0(6@80"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib321169702#638#0#638#0#0"0(0#0#80"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib8660953280#417"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj/MainMenu.nib /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s321073999.547774
+e321073999.818478
+r1
+xCopyStringsFile
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings321073999#321073999#0(0"0(0#0#85"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/English.lproj/InfoPlist.strings8615298944#403"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Resources/English.lproj0#
+
+CLd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/MacOS/Zombies_Leveler normal x86_64
+s321169687.688268
+e321169687.738035
+r1
+xLd
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/MacOS/Zombies_Leveler
+xnormal
+xx86_64
+lSLF07#2@121"Link /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/MacOS/Zombies_Leveler321169687#321169687#0(0"0(0#0#0"8631398656#675"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -filelist /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Objects-normal/x86_64/Zombies_Leveler.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/MacOS/Zombies_Leveler0#
+
+CProcessInfoPlistFile /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Info.plist Zombies_Leveler-Info.plist
+s321073999.486213
+e321073999.547687
+r1
+xProcessInfoPlistFile
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Info.plist
+xZombies_Leveler-Info.plist
+lSLF07#2@34"Process Zombies_Leveler-Info.plist321073999#321073999#0(0"0(0#0#80"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_Leveler-Info.plist13229817834242158#379"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    builtin-infoPlistUtility Zombies_Leveler-Info.plist -genpkginfo /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch.gch Zombies_Leveler_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s321073999.859530
+e321074003.284365
+r1
+xProcessPCH
+x/var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch.gch
+xZombies_Leveler_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Zombies_Leveler_Prefix.pch321073999#321074003#0(0"0(0#0#80"/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_Leveler_Prefix.pch8604184896#1658"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-generated-files.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-own-target-headers.hmap -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-all-target-headers.hmap -iquote /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/Zombies_Leveler-project-headers.hmap -F/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/include -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources/x86_64 -I/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Zombies_Leveler.build/Debug/Zombies_Leveler.build/DerivedSources -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/Zombies_Leveler_Prefix.pch -o /var/folders/YG/YGw209t2FCiunLzYZ4FXG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Zombies_Leveler_Prefix-exgjukgpsdgbxobhytclkamumbpl/Zombies_Leveler_Prefix.pch.gch0#
+
+CTouch /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app
+s321225288.069524
+e321225288.072266
+r1
+xTouch
+x/Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app
+lSLF07#2@91"Touch /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app321225288#321225288#0(0"0(0#0#0"8660732576#169"    cd /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler    /usr/bin/touch -c /Users/nathanholmberg/Projects/iPhone/Zombies_Leveler/build/Debug/Zombies_Leveler.app0#
+
